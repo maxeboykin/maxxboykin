@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Wameo Linked in Banner](https://user-images.githubusercontent.com/89083313/148134872-60d6b9a6-6c4a-459a-bcb9-7e511541b56f.png)
 
-### What stands between someone achieving their most ambitious dreams has less to do with talent or inate skill and more to do with approaching a problem and decision making. Making decisions occurs far often than we think. It happens millions of times each day. Because of the continuous and compounding nature of all these millions of decisions that we face on a regular basis, even a marginal improvement in our process can have a huge impact in our ability. 
+### What stands between someone achieving their most ambitious dreams has less to do with talent or inate skill and more to do with approaching a problem and decision making. Making decisions occurs far often than we think. It happens millions of times each day. Because of the continuous and compounding nature of all these millions of decisions that we face on a regular basis, even a marginal improvement in our process can have a huge impact in our ability. This space represents my journey into designing software and technology, one line of code, one 0 or 1, one pixel at a time.
 
 ##### Languages & Tools:
 
