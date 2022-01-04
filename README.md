@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Wameo Linked in Banner](https://user-images.githubusercontent.com/89083313/148134872-60d6b9a6-6c4a-459a-bcb9-7e511541b56f.png)
+
+##### Languages & Tools:
+
+<img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
