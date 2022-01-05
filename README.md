@@ -7,7 +7,7 @@
 
 - :memo: Now don't get those feelings of melancholy due to the limited projects finished in this space. I’m currently working on a pathfinder visualizer project as well as a few other smaller private projects. Now, now, now... I am not one for clandestine or surreptitious relationships but that's the way this has got to be. :zipper_mouth_face:.
 
-- :croissant:	Have been a long-time learner of the most fickle quadrinomial problem in homo-sapien history.. the mercurial relationship between flour, water, salt and yeast...just don't ask me to add the fifth variable of olive oil to make ciabatta.  
+- :croissant:	Have been a long-time learner of the most fickle quadrinomial problems in homo-sapien history.. the mercurial relationship between flour, water, salt and yeast...just don't ask me to add the fifth variable of olive oil to make ciabatta.  
  
 - 💬 Ask me about designing a product and delivering it to the market successfully. Success isn't serendipitous if you follow the right steps. I have five years of product management experience in the computer industry :computer:	:desktop_computer:	. 
 
