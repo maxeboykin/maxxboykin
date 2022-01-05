@@ -2,7 +2,7 @@
 
 ##### What stands between someone achieving their most ambitious dreams has less to do with talent or inate skill and more to do with approaching a problem and decision making. Making decisions occurs far often than we think. It happens millions of times each day. Because of the continuous and compounding nature of all these millions of decisions that we face on a regular basis, even a marginal improvement in our process can have a huge impact in our ability. This space represents my journey into designing software and technology, one line of code..one 0 or 1..one pixel at a time.
 
-- 😄 I'm Max, an engineer, one of the 7.1 x 10^9 individuals striving to grow and progress on :earth_americas:. I graduated from the University of Michigan in 2016 with an Engineering Bachelor's and in 2017 with an Engineering Master's degree. :yellow_circle:	:large_blue_circle:	
+- 😄 I'm Max, an engineer, one of the 7.1 x 10^9 individuals striving to grow and progress on :earth_americas:. I am a former product manager at Dell Technologies. I graduated from the University of Michigan in 2016 with an Engineering Bachelor's and in 2017 with an Engineering Master's degree. :yellow_circle:	:large_blue_circle:	
 
 - :memo: Now don't get those feelings of melancholy due to the limited projects finished in this space. I’m currently working on a pathfinder visualizer project as well as a few other smaller private projects. Now, now, now... I am not one for clandestine or surreptitious relationships but that's the way this has got to be. :zipper_mouth_face:.
 
